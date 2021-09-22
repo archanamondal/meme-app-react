@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/meme-app-react/static/css/main.4187520e.chunk.css",
+    "main.js": "/meme-app-react/static/js/main.44a0060d.chunk.js",
+    "main.js.map": "/meme-app-react/static/js/main.44a0060d.chunk.js.map",
+    "runtime-main.js": "/meme-app-react/static/js/runtime-main.2a1a0be6.js",
+    "runtime-main.js.map": "/meme-app-react/static/js/runtime-main.2a1a0be6.js.map",
+    "static/js/2.9e590414.chunk.js": "/meme-app-react/static/js/2.9e590414.chunk.js",
+    "static/js/2.9e590414.chunk.js.map": "/meme-app-react/static/js/2.9e590414.chunk.js.map",
+    "static/js/3.6a126514.chunk.js": "/meme-app-react/static/js/3.6a126514.chunk.js",
+    "static/js/3.6a126514.chunk.js.map": "/meme-app-react/static/js/3.6a126514.chunk.js.map",
+    "index.html": "/meme-app-react/index.html",
+    "static/css/main.4187520e.chunk.css.map": "/meme-app-react/static/css/main.4187520e.chunk.css.map",
+    "static/js/2.9e590414.chunk.js.LICENSE.txt": "/meme-app-react/static/js/2.9e590414.chunk.js.LICENSE.txt",
+    "static/media/Spinner.70b56022.gif": "/meme-app-react/static/media/Spinner.70b56022.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a1a0be6.js",
+    "static/js/2.9e590414.chunk.js",
+    "static/css/main.4187520e.chunk.css",
+    "static/js/main.44a0060d.chunk.js"
+  ]
+}
