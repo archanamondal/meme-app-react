@@ -1,3 +1,21 @@
+.Nextbutton {
+  height:40px; 
+  width:auto;
+  margin-top:30px; 
+  padding:10px 20px;
+  border:1px solid #3498db; 
+  font-size:20px; 
+  cursor:pointer; 
+  font-family:montserrat;
+   color:white;
+   transition:0.8s; 
+   position:relative; 
+   overflow:hidden; 
+   background-color:#00b894
+}
+
+
+
 .App {
   text-align: center;
 }
